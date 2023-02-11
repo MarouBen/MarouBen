@@ -14,12 +14,12 @@ As a software engineer from Cadi Ayyad University, I bring a strong foundation i
 </p>
 <h2>📘 My Projects</h2>
 <p>
- <a href="https://github.com/MarouBen/Ethepy"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarouBen&repo=Ethepy&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"></a>
- <a href="https://github.com/MarouBen/Pinsta"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarouBen&repo=Pinsta&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"></a>
- <a href="https://github.com/MarouBen/Wiki"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarouBen&repo=Wiki&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"></a>
- <a href="https://github.com/MarouBen/GoogleClone"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarouBen&repo=GoogleClone&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"></a>
+ <a href="https://github.com/MarouBen/Ethepy"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarouBen&repo=Ethepy&theme=material-palenight&hide_border=true"></a>
+ <a href="https://github.com/MarouBen/Pinsta"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarouBen&repo=Pinsta&theme=material-palenight&hide_border=true"></a>
+ <a href="https://github.com/MarouBen/Wiki"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarouBen&repo=Wiki&theme=material-palenight&hide_border=true"></a>
+ <a href="https://github.com/MarouBen/GoogleClone"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarouBen&repo=GoogleClone&theme=material-palenight&hide_border=true"></a>
 </p>
 
 
 ## 📊 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarouBen&show_icons=true&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarouBen&show_icons=true&theme=material-palenight)  
