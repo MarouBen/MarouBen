@@ -14,10 +14,10 @@ As a software engineer from Cadi Ayyad University, I bring a strong foundation i
 </p>
 <h2>📘 My Projects</h2>
 <p>
- <a href="https://github.com/MarouBen/Project-2_Ethepy"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarouBen&repo=Project-2_Ethepy&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"></a>
- <a href="https://github.com/MarouBen/Project-1_Pinsta"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarouBen&repo=Project-1_Pinsta&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"></a>
- <a href="https://github.com/MarouBen/Project-4_Wiki"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarouBen&repo=Project-4_Wiki&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"></a>
- <a href="https://github.com/MarouBen/Project-3_GoogleClone"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarouBen&repo=Project-3_GoogleClone&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"></a>
+ <a href="https://github.com/MarouBen/Ethepy"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarouBen&repo=Ethepy&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"></a>
+ <a href="https://github.com/MarouBen/Pinsta"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarouBen&repo=Pinsta&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"></a>
+ <a href="https://github.com/MarouBen/Wiki"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarouBen&repo=Wiki&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"></a>
+ <a href="https://github.com/MarouBen/GoogleClone"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarouBen&repo=GoogleClone&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"></a>
 </p>
 
 
