@@ -22,4 +22,4 @@ As a software engineer from Cadi Ayyad University, I bring a strong foundation i
 
 
 ## 📊 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarouBen&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarouBen&show_icons=true&theme=radical)  
