@@ -22,6 +22,9 @@ As a software engineer from Cadi Ayyad University, I bring a strong foundation i
  <a href="https://github.com/MarouBen/GoogleClone"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarouBen&repo=GoogleClone&theme=material-palenight&hide_border=true"></a>
 </p>
 
+## Demo Videos
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 
 ## 📊 Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarouBen&show_icons=true&theme=material-palenight)  
