@@ -25,8 +25,8 @@ As a software engineer from Cadi Ayyad University, I bring a strong foundation i
 ## 📺 Demo Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![CS50P Final Project 2022 - Ethepy](https://ytcards.demolab.com/?id=okA5s25EZts&title=CS50P+Final+Project+2022+-+Ethepy&lang=en&timestamp=1670356014&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "CS50P Final Project 2022 - Ethepy")](https://www.youtube.com/watch?v=okA5s25EZts)
-[![CS50x Final Project 2022 - Pinsta](https://ytcards.demolab.com/?id=3YAFGB_ALzs&title=CS50x+Final+Project+2022+-+Pinsta&lang=en&timestamp=1652143608&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "CS50x Final Project 2022 - Pinsta")](https://www.youtube.com/watch?v=3YAFGB_ALzs)
+[![Ethepy -- CS50P Final Project 2022](https://ytcards.demolab.com/?id=okA5s25EZts&title=Ethepy+--+CS50P+Final+Project+2022&lang=en&timestamp=1670356014&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Ethepy -- CS50P Final Project 2022")](https://www.youtube.com/watch?v=okA5s25EZts)
+[![Pinsta -- CS50x Final Project 2022](https://ytcards.demolab.com/?id=3YAFGB_ALzs&title=Pinsta+--+CS50x+Final+Project+2022&lang=en&timestamp=1652143608&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Pinsta -- CS50x Final Project 2022")](https://www.youtube.com/watch?v=3YAFGB_ALzs)
 <!-- END YOUTUBE-CARDS -->
 
 ## 📊 Stats
