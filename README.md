@@ -32,5 +32,3 @@ As a software engineer from Cadi Ayyad University, I bring a strong foundation i
 [![Pinsta -- CS50x Final Project 2022](https://ytcards.demolab.com/?id=3YAFGB_ALzs&title=Pinsta+--+CS50x+Final+Project+2022&lang=en&timestamp=1652143608&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Pinsta -- CS50x Final Project 2022")](https://www.youtube.com/watch?v=3YAFGB_ALzs)
 <!-- END YOUTUBE-CARDS -->
 
-## 📊 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarouBen&show_icons=true&theme=material-palenight)  
