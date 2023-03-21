@@ -16,11 +16,11 @@ As a software engineer from Cadi Ayyad University, I bring a strong foundation i
 </p>
 <h2>📘 My Projects</h2>
 <p>
+  <a href="https://github.com/MarouBen/NightFall-Bids"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarouBen&repo=NightFall-Bids&theme=material-palenight&hide_border=true"></a>
+  <a href="https://github.com/MarouBen/Cybella-Mail"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarouBen&repo=Cybella-Mail&theme=material-palenight&hide_border=true"></a>
  <a href="https://github.com/MarouBen/Ethepy"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarouBen&repo=Ethepy&theme=material-palenight&hide_border=true"></a>
- <a href="https://github.com/MarouBen/NightFall-Bids"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarouBen&repo=NightFall-Bids&theme=material-palenight&hide_border=true"></a>
  <a href="https://github.com/MarouBen/Pinsta"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarouBen&repo=Pinsta&theme=material-palenight&hide_border=true"></a>
  <a href="https://github.com/MarouBen/Wiki"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarouBen&repo=Wiki&theme=material-palenight&hide_border=true"></a>
- <a href="https://github.com/MarouBen/GoogleClone"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarouBen&repo=GoogleClone&theme=material-palenight&hide_border=true"></a>
 </p>
 
 ## 📺 Demo Videos
