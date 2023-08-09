@@ -11,7 +11,7 @@ As a software engineer from Cadi Ayyad University, I bring a strong foundation i
 ## 🧰 Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,python,cpp,c,java,html,css,js,dotnet,django,flask,php,kotlin,mysql,vscode,git,github,aws,azure" />
+    <img src="https://skillicons.dev/icons?i=cs,python,cpp,c,java,html,css,js,dotnet,django,flask,php,kotlin,mysql,aws,azure,tailwind" />
   </a>
 </p>
 <h2>📘 My Projects</h2>
